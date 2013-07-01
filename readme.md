@@ -1,3 +1,5 @@
+http://blog.springsource.org/2012/08/29/integrating-spring-mvc-with-jquery-for-validation-rules/
+
 ### prerequisites
 The following items should be installed in your system:
 * Maven 3 (http://www.sonatype.com/books/mvnref-book/reference/installation.html)
